@@ -30,4 +30,4 @@ npm run dev
 ```
 
 
-**[Live Demo → airdraw-board.vercel.app](https://airdraw-board.vercel.app)**
+[Live Demo → airdraw-board.vercel.app](https://airdraw-board.vercel.app)
