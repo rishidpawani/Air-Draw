@@ -1,0 +1,6 @@
+{
+  "name": "AirDraw",
+  "description": "An infinite gesture-controlled whiteboard with webcam hand tracking, auto-snapping shapes, smart connectors, and local .airdraw file support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
