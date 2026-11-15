@@ -27,3 +27,7 @@ An Excalidraw-style infinite whiteboard driven by real-time webcam hand gestures
 ```bash
 npm install
 npm run dev
+```
+
+## Visit
+Link: airdraw-board.vercel.app
