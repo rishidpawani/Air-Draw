@@ -29,5 +29,5 @@ npm install
 npm run dev
 ```
 
-## Visit
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-airdraw--board.vercel.app-00B4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://airdraw-board.vercel.app)
+
+**[Live Demo → airdraw-board.vercel.app](https://airdraw-board.vercel.app)**
